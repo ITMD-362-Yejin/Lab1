@@ -1,0 +1,16 @@
+body {
+  background-color: #37250E;
+}
+h1 {
+  color: #E2CCB1;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+p {
+  color: #E2CCB1;
+  margin-left: 30px;
+}
+img {
+  border: 5px solid #000F1E;
+  margin-left: 20px;
+}
